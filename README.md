@@ -23,6 +23,5 @@
 保存至`data`文件夹中  
 ## Step 5 
 运行`Main-Modified.ipynb`脚本  
-生成最终结果文件  
-`final_submission.csv`  
+生成最终结果文件`final_submission.csv`  
 保存至`submit`文件夹中  
