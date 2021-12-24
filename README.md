@@ -5,7 +5,7 @@
 `test_public.csv`  
 `train_internet.csv`  
 `train_public.csv`  
-保存至 `ori_data` 文件夹  
+手动添加至 `ori_data` 文件夹  
 ## Step 2 
 运行`Modify_Data.ipynb`脚本  
 生成修改过`early_return`字段的文件  
